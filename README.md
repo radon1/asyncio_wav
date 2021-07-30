@@ -1,1 +1,1 @@
-sample example of wav file transmitter using udp
+sample example of wav file transfer using udp
